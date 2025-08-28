@@ -1,0 +1,1591 @@
+[1406] Contact au driver...
+[1406] Driver contacté !
+Scraping page 1406...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1406...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/36671/avis-de-recrutement-assistante-rh-at-archipel-cm-sarl
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+[Tentative 1/3] Échec : Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff759f8e415+77285]
+	GetHandleVerifier [0x0x7ff759f8e470+77376]
+	(No symbol) [0x0x7ff759d59a6a]
+	(No symbol) [0x0x7ff759d56823]
+	(No symbol) [0x0x7ff759d47659]
+	(No symbol) [0x0x7ff759d49401]
+	(No symbol) [0x0x7ff759d47976]
+	(No symbol) [0x0x7ff759d473d6]
+	(No symbol) [0x0x7ff759d4709a]
+	(No symbol) [0x0x7ff759d44c68]
+	(No symbol) [0x0x7ff759d454ec]
+	(No symbol) [0x0x7ff759d5da1a]
+	(No symbol) [0x0x7ff759e0167e]
+	(No symbol) [0x0x7ff759dd860a]
+	(No symbol) [0x0x7ff759e0087f]
+	(No symbol) [0x0x7ff759dd83e3]
+	(No symbol) [0x0x7ff759da1521]
+	(No symbol) [0x0x7ff759da22b3]
+	GetHandleVerifier [0x0x7ff75a271efd+3107021]
+	GetHandleVerifier [0x0x7ff75a26c29d+3083373]
+	GetHandleVerifier [0x0x7ff75a28bedd+3213485]
+	GetHandleVerifier [0x0x7ff759fa884e+184862]
+	GetHandleVerifier [0x0x7ff759fb055f+216879]
+	GetHandleVerifier [0x0x7ff759f97084+113236]
+	GetHandleVerifier [0x0x7ff759f97239+113673]
+	GetHandleVerifier [0x0x7ff759f7e298+11368]
+	BaseThreadInitThunk [0x0x7ffbe6d3259d+29]
+	RtlUserThreadStart [0x0x7ffbe84caf78+40]
+
+[Tentative 2/3] Échec : Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff759f8e415+77285]
+	GetHandleVerifier [0x0x7ff759f8e470+77376]
+	(No symbol) [0x0x7ff759d59a6a]
+	(No symbol) [0x0x7ff759d56823]
+	(No symbol) [0x0x7ff759d47659]
+	(No symbol) [0x0x7ff759d49401]
+	(No symbol) [0x0x7ff759d47976]
+	(No symbol) [0x0x7ff759d473d6]
+	(No symbol) [0x0x7ff759d4709a]
+	(No symbol) [0x0x7ff759d44c68]
+	(No symbol) [0x0x7ff759d454ec]
+	(No symbol) [0x0x7ff759d5da1a]
+	(No symbol) [0x0x7ff759e0167e]
+	(No symbol) [0x0x7ff759dd860a]
+	(No symbol) [0x0x7ff759e0087f]
+	(No symbol) [0x0x7ff759dd83e3]
+	(No symbol) [0x0x7ff759da1521]
+	(No symbol) [0x0x7ff759da22b3]
+	GetHandleVerifier [0x0x7ff75a271efd+3107021]
+	GetHandleVerifier [0x0x7ff75a26c29d+3083373]
+	GetHandleVerifier [0x0x7ff75a28bedd+3213485]
+	GetHandleVerifier [0x0x7ff759fa884e+184862]
+	GetHandleVerifier [0x0x7ff759fb055f+216879]
+	GetHandleVerifier [0x0x7ff759f97084+113236]
+	GetHandleVerifier [0x0x7ff759f97239+113673]
+	GetHandleVerifier [0x0x7ff759f7e298+11368]
+	BaseThreadInitThunk [0x0x7ffbe6d3259d+29]
+	RtlUserThreadStart [0x0x7ffbe84caf78+40]
+
+[Tentative 3/3] Échec : Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff759f8e415+77285]
+	GetHandleVerifier [0x0x7ff759f8e470+77376]
+	(No symbol) [0x0x7ff759d59a6a]
+	(No symbol) [0x0x7ff759d56823]
+	(No symbol) [0x0x7ff759d47659]
+	(No symbol) [0x0x7ff759d49401]
+	(No symbol) [0x0x7ff759d47976]
+	(No symbol) [0x0x7ff759d473d6]
+	(No symbol) [0x0x7ff759d4709a]
+	(No symbol) [0x0x7ff759d44c68]
+	(No symbol) [0x0x7ff759d454ec]
+	(No symbol) [0x0x7ff759d5da1a]
+	(No symbol) [0x0x7ff759e0167e]
+	(No symbol) [0x0x7ff759dd860a]
+	(No symbol) [0x0x7ff759e0087f]
+	(No symbol) [0x0x7ff759dd83e3]
+	(No symbol) [0x0x7ff759da1521]
+	(No symbol) [0x0x7ff759da22b3]
+	GetHandleVerifier [0x0x7ff75a271efd+3107021]
+	GetHandleVerifier [0x0x7ff75a26c29d+3083373]
+	GetHandleVerifier [0x0x7ff75a28bedd+3213485]
+	GetHandleVerifier [0x0x7ff759fa884e+184862]
+	GetHandleVerifier [0x0x7ff759fb055f+216879]
+	GetHandleVerifier [0x0x7ff759f97084+113236]
+	GetHandleVerifier [0x0x7ff759f97239+113673]
+	GetHandleVerifier [0x0x7ff759f7e298+11368]
+	BaseThreadInitThunk [0x0x7ffbe6d3259d+29]
+	RtlUserThreadStart [0x0x7ffbe84caf78+40]
+
+Toutes les tentatives ont échoué.
+Process Process-3:
+Traceback (most recent call last):
+  File "D:\Anaconda\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "D:\Anaconda\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\scraping_fne.py", line 35, in scrape_with_logging
+    scrape_all_pages_minajobs(
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 391, in scrape_all_pages_minajobs
+    scrape_all_pages(url=url, fonction_scraping=scraper_offres_minajobs,  format_page="query" , driver=driver , first=first, type_format="p")
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 485, in scrape_all_pages
+    offres_page = fonction_scraping(url_page) if driver == None else fonction_scraping(url_page,driver)
+                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 366, in scraper_offres_minajobs
+    safe_get(driver, offre["lien"])
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 460, in safe_get
+    driver.get(url)
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\webdriver.py", line 479, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=138.0.7204.158)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff759f8e415+77285]
+	GetHandleVerifier [0x0x7ff759f8e470+77376]
+	(No symbol) [0x0x7ff759d59a6a]
+	(No symbol) [0x0x7ff759d56823]
+	(No symbol) [0x0x7ff759d47659]
+	(No symbol) [0x0x7ff759d49401]
+	(No symbol) [0x0x7ff759d47976]
+	(No symbol) [0x0x7ff759d473d6]
+	(No symbol) [0x0x7ff759d4709a]
+	(No symbol) [0x0x7ff759d44c68]
+	(No symbol) [0x0x7ff759d454ec]
+	(No symbol) [0x0x7ff759d5da1a]
+	(No symbol) [0x0x7ff759e0167e]
+	(No symbol) [0x0x7ff759dd860a]
+	(No symbol) [0x0x7ff759e0087f]
+	(No symbol) [0x0x7ff759dd83e3]
+	(No symbol) [0x0x7ff759da1521]
+	(No symbol) [0x0x7ff759da22b3]
+	GetHandleVerifier [0x0x7ff75a271efd+3107021]
+	GetHandleVerifier [0x0x7ff75a26c29d+3083373]
+	GetHandleVerifier [0x0x7ff75a28bedd+3213485]
+	GetHandleVerifier [0x0x7ff759fa884e+184862]
+	GetHandleVerifier [0x0x7ff759fb055f+216879]
+	GetHandleVerifier [0x0x7ff759f97084+113236]
+	GetHandleVerifier [0x0x7ff759f97239+113673]
+	GetHandleVerifier [0x0x7ff759f7e298+11368]
+	BaseThreadInitThunk [0x0x7ffbe6d3259d+29]
+	RtlUserThreadStart [0x0x7ffbe84caf78+40]
+
+[1406] Contact au driver...
+[1406] Driver contacté !
+Scraping page 1406...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1406...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1407...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1407...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1408...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1408...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1409...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1409...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1410...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1410...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1411...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1411...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1412...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1412...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1413...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1413...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1414...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1414...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1415...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1415...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1416...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1416...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1417...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1417...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 5: https://cameroun.minajobs.net/emplois-stage-recrutement/30817/avis-de-recrutement-07-postes-disponibles-kribi-conteneurs-terminal-at-agl-africa-global-logistics-cameroon
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 6: https://cameroun.minajobs.net/emplois-stage-recrutement/28999/avis-de-recrutement-04-postes-a-pourvoir-at-cimencam-cimenteries-du-cameroun-groupe-lafarge
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 7: https://cameroun.minajobs.net/emplois-stage-recrutement/21371/avis-de-recrutement-04-postes-disponibles-at-wwf-the-world-wide-fund-for-nature-cameroon-fonds-mondial-pour-la-nature
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 8: https://cameroun.minajobs.net/emplois-stage-recrutement/35766/avis-de-recrutement-100-postes-vacants-a-pourvoir-at-psl-petro-services-et-logistiques-sarl-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 9: https://cameroun.minajobs.net/emplois-stage-recrutement/35618/avis-de-recrutement-responsable-de-la-communaute-at-ukuzola-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 10: https://cameroun.minajobs.net/emplois-stage-recrutement/35216/avis-de-recrutement-programme-de-stages-fao-2025-pour-les-jeunes-talents-at-fao-organisation-des-nations-unies-pour-lalimentation-et-lagriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 11: https://cameroun.minajobs.net/emplois-stage-recrutement/34319/gratuit-chaine-whatsapp-doffres-demplois-et-de-stages-au-cameroun-at-minajobsnet-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 12: https://cameroun.minajobs.net/emplois-stage-recrutement/36665/job-opportunity-assurance-manager-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 13: https://cameroun.minajobs.net/emplois-stage-recrutement/36655
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 14: https://cameroun.minajobs.net/emplois-stage-recrutement/36627/avis-de-recrutement-candidatures-spontanees-stages-et-emplois-at-agb-africa-golden-bank-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 15: https://cameroun.minajobs.net/emplois-stage-recrutement/36645/avis-de-recrutement-agent-de-terrain-hf-at-gadd-grassland-association-for-agriculture
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 16: https://cameroun.minajobs.net/emplois-stage-recrutement/35698/job-opportunity-master%e2%80%99s-internship-at-crid-centre-for-research-in-infectious-diseases-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 17: https://cameroun.minajobs.net/emplois-stage-recrutement/36588/avis-de-recrutement-27-postes-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 18: https://cameroun.minajobs.net/emplois-stage-recrutement/35748/avis-de-recrutement-candidatures-spontanees-at-b2bs-automobile-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 19: https://cameroun.minajobs.net/emplois-stage-recrutement/36599/avis-de-recrutement-n%c2%b0012082025-une-assistant-programme-at-care-international-au-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 20: https://cameroun.minajobs.net/emplois-stage-recrutement/36623/avis-de-recrutement-04-chauffeurs-vehicule-tourisme-at-beetle-heritage-holding-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 21: https://cameroun.minajobs.net/emplois-stage-recrutement/36624/avis-de-recrutement-operateur-operatrice-coupeuse-stagiaire-at-sosucam-societe-sucriere-cameroun-groupe-somdiaa
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 22: https://cameroun.minajobs.net/emplois-stage-recrutement/36625/avis-de-recrutement-26-enseignants-permanents-hf-at-universite-de-yaounde-i-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 23: https://cameroun.minajobs.net/emplois-stage-recrutement/36621/avis-de-recrutement-agent-de-liaison-at-isalyd-corporation-sa-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 24: https://cameroun.minajobs.net/emplois-stage-recrutement/36629/avis-de-recrutement-140-places-disponibles-at-pfac-profinance-audit-conseil-cameroun
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 25: https://cameroun.minajobs.net/emplois-stage-recrutement/36608/avis-de-recrutement-06-postes-a-pourvoir-specialite-technique-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Toutes les offres ont été traitées !
+Données ajoutées !
+Repos !
+Reprise...
+Scraping page 1418...
+Connexion à l'url https://cameroun.minajobs.net/offres-emplois-stages?p=1418...
+Connexion réussie !
+Récupération des balises li...
+Nombre d'offres trouvées : 25
+Connexion à l'url de l'offre No : 1: https://cameroun.minajobs.net/emplois-stage-recrutement/32027/avis-de-recrutement-45-postes-vacants-a-pourvoir-profils-divers-at-ucb-union-camerounaises-de-brasseries-groupe-kadji
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 2: https://cameroun.minajobs.net/emplois-stage-recrutement/3225/avis-de-recrutement-03-postes-a-pourvoir-urgent-at-plan-international-cameroon-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 3: https://cameroun.minajobs.net/emplois-stage-recrutement/36649/job-opportunity-icva-regional-engagement-coordinator-at-flm-federation-lutherienne-mondiale-lwf-cameroun-the-lutheran-world-federation-ong
+Ajouter offres ...
+Données enregistrées avec succès !
+Nouvelles offres ajoutées !
+Connexion à l'url de l'offre No : 4: https://cameroun.minajobs.net/emplois-stage-recrutement/36647/avis-de-recrutement-consultant-national-dhis2-at-chp-care-and-health-program-cameroon
+[Tentative 1/3] Échec : HTTPConnectionPool(host='localhost', port=49719): Read timed out. (read timeout=120)
+[Tentative 2/3] Échec : HTTPConnectionPool(host='localhost', port=49719): Read timed out. (read timeout=120)
+[Tentative 3/3] Échec : HTTPConnectionPool(host='localhost', port=49719): Read timed out. (read timeout=120)
+Toutes les tentatives ont échoué.
+Process Process-3:
+Traceback (most recent call last):
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Anaconda\Lib\http\client.py", line 1428, in getresponse
+    response.begin()
+  File "D:\Anaconda\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "D:\Anaconda\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Anaconda\Lib\socket.py", line 720, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Anaconda\Lib\multiprocessing\process.py", line 314, in _bootstrap
+    self.run()
+  File "D:\Anaconda\Lib\multiprocessing\process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\scraping_fne.py", line 35, in scrape_with_logging
+    scrape_all_pages_minajobs(
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 391, in scrape_all_pages_minajobs
+    scrape_all_pages(url=url, fonction_scraping=scraper_offres_minajobs,  format_page="query" , driver=driver , first=first, type_format="p")
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 485, in scrape_all_pages
+    offres_page = fonction_scraping(url_page) if driver == None else fonction_scraping(url_page,driver)
+                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 366, in scraper_offres_minajobs
+    safe_get(driver, offre["lien"])
+  File "D:\Analyse_des_sites_de_recherche_d'emploi\main.py", line 460, in safe_get
+    driver.get(url)
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\webdriver.py", line 479, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\webdriver.py", line 451, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\remote_connection.py", line 404, in execute
+    return self._request(command_info[0], url, body=data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\selenium\webdriver\remote\remote_connection.py", line 428, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "C:\Users\User HP\AppData\Roaming\Python\Python312\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=49719): Read timed out. (read timeout=120)
