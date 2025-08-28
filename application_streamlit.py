@@ -12,8 +12,13 @@ import ast
 import re
 import folium
 from streamlit_folium import folium_static
-
+import requests
+import io
+import os
+from urllib.parse import urlparse
 warnings.filterwarnings('ignore')
+
+
 
 # Configuration de la page
 st.set_page_config(
@@ -791,7 +796,48 @@ def afficher_analyse_temporelle_geographique(df_geo_data):
         st.plotly_chart(fig, use_container_width=True)
 
 ##############################################
+# Fonction pour télécharger un fichier depuis une URL
+@st.cache_data(show_spinner="Téléchargement du fichier...")
+def download_file_from_url(url):
+    """
+    Télécharge un fichier depuis une URL (GitHub, Raw, etc.)
+    """
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        
+        # Vérifier le type de contenu
+        content_type = response.headers.get('content-type', '')
+        
+        if 'text/csv' in content_type or url.endswith('.csv'):
+            return pd.read_csv(io.StringIO(response.text))
+        elif 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet' in content_type or url.endswith('.xlsx'):
+            return pd.read_excel(io.BytesIO(response.content))
+        elif 'application/vnd.ms-excel' in content_type or url.endswith('.xls'):
+            return pd.read_excel(io.BytesIO(response.content))
+        else:
+            # Essayer de deviner le format
+            try:
+                return pd.read_csv(io.StringIO(response.text))
+            except:
+                try:
+                    return pd.read_excel(io.BytesIO(response.content))
+                except:
+                    st.error("Format de fichier non supporté")
+                    return None
+                    
+    except requests.exceptions.RequestException as e:
+        st.error(f"Erreur lors du téléchargement: {str(e)}")
+        return None
+    except Exception as e:
+        st.error(f"Erreur lors de la lecture du fichier: {str(e)}")
+        return None
 
+methode_chargement1 = st.sidebar.radio(
+    "Choisir la méthode de chargement",
+    ["📤 Upload fichier", "🔗 Lien URL (Google Sheets)"],
+    help="Uploader un fichier CSV ou fournir un lien vers un fichier"
+)
 
 # Interface de téléchargement de fichier
 st.sidebar.header("📁 Chargement des données")
@@ -800,8 +846,23 @@ uploaded_file = st.sidebar.file_uploader(
     type=['csv'],
     help="Téléchargez votre fichier CSV contenant les offres d'emploi"
 )
+# Lien pour le fichier principal
+url_file = st.sidebar.text_input(
+    "URL du fichier des offres d'emploi",
+    placeholder="https://example.com/data.csv ou https://raw.githubusercontent.com/...",
+    help="Collez l'URL directe vers le fichier CSV"
+)
+lien_csv1 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSU1mojHq05cj76KcgVpFCjgV4tHvdRNb0FEtf24REhpsLI8nNFeeDZhoObdEAUCKWoZ7H6Q0ocWotV/pub?gid=127079054&single=true&output=csv"
+st.sidebar.header("Liens prédéfinis à copier-coller")
+st.sidebar.code(lien_csv1, language="text")
 
 ##############################################
+methode_chargement2 = st.sidebar.radio(
+    "Choisir la méthode de chargement pour l'analyse géographique",
+    ["📤 Upload fichier", "🔗 Lien URL (Google Sheets)"],
+    help="Uploader un fichier CSV ou fournir un lien vers un fichier"
+)
+
 # Ajouter une section pour l'upload du fichier villes-régions
 st.sidebar.header("🌍 Données Géographiques")
 uploaded_geo_file = st.sidebar.file_uploader(
@@ -810,11 +871,37 @@ uploaded_geo_file = st.sidebar.file_uploader(
         help="Fichier avec colonnes: villes, regions"
     )
 ##############################################
+# Lien pour le fichier secondaire (villes / régions)
+url_file2 = st.sidebar.text_input(
+    "URL du fichier villes/régions",
+    placeholder="https://raw.exemple.com/.../villes.csv",
+    help="Collez l'URL directe vers le fichier CSV"
+)
+lien_csv2 = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQQanlEFUwYKMxkV1FvK8g-AQj6JCD-39Le-7_9fQLED0bnPy7khW6MVOhy3EKzyh8zaTw4y-C3g3PT/pub?gid=448241667&single=true&output=csv"
+st.sidebar.header("Liens prédéfinis à copier-coller")
+st.sidebar.code(lien_csv1, language="text")
 
-if uploaded_file is not None:
+fichier_charge1 = ""
+if methode_chargement1 =="📤 Upload fichier" :
+    fichier_charge1 = uploaded_geo_file
+elif methode_chargement1 =="🔗 Lien URL (Google Sheets)":
+    fichier_charge1 = url_file
+else:
+    st.error("Veuillez sélectionner une méthode de chargement valide.")
+    
+fichier_charge2 = ""
+if methode_chargement2 =="📤 Upload fichier" :
+    fichier_charge2 = uploaded_file
+elif methode_chargement2 =="🔗 Lien URL (Google Sheets)":
+    fichier_charge2 = url_file2
+else:
+    st.error("Veuillez sélectionner une méthode de chargement valide.")
+    
+    
+if fichier_charge1 is not None:
     try:
         # Charger les données
-        df = pd.read_csv(uploaded_file)
+        df = pd.read_csv(fichier_charge1)
         df_temporal = prepare_temporal_dataframe(df)
         
         st.success(f"✅ Données chargées avec succès ! {len(df_temporal)} offres analysables")
@@ -829,10 +916,10 @@ if uploaded_file is not None:
         st.sidebar.info(f"📅 Période disponible: {date_min} à {date_max}")
         
         ##############################################
-        if uploaded_geo_file is not None:
+        if fichier_charge2 is not None:
             try:
                 # Charger les données géographiques
-                df_villes_regions = pd.read_csv(uploaded_geo_file)
+                df_villes_regions = pd.read_csv(fichier_charge2)
                 
                 # Vérifier que le fichier contient les colonnes attendues
                 ##########################################################""""
