@@ -1,0 +1,76 @@
+# .gitignore pour le projet Rapport de stage — Python / Streamlit / Selenium
+# Ignorer les environnements virtuels, fichiers compilés, logs, données temporaires et fichiers locaux
+
+## Environnements et dépendances
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+## Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+## Pip / cache
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.cache/
+
+## Tests / coverage
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+## Jupyter
+.ipynb_checkpoints/
+
+## IDE / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+## Système
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Logs et sorties
+*.log
+logs/
+output.png
+
+## Données temporaires / exports locaux
+tmp/
+temp/
+data/tmp/
+
+## Binaires / drivers (Selenium)
+chromedriver.exe
+chromedriver
+drivers/
+
+## Secrets / configuration locale
+.env
+.env.*
+secrets.json
+config.local.json
+
+## Autres
+*.bak
+*.swp
+
+# Note: certains fichiers de données (.csv, .xlsx) ne sont pas globalement ignorés au cas où
+# ils font partie du dépôt. Si vous souhaitez ignorer un dossier de données particulier,
+# ajoutez par exemple `data/` ou `outputs/`.
