@@ -10,7 +10,6 @@ Collecter, nettoyer et analyser des offres d'emploi provenant de plusieurs sites
 
 - `main.py` : fonctions de scraping génériques et scrapers par site (EmploiCM, CameroonDesk, FNE, Louma Jobs, Minajobs, ...). Contient aussi des utilitaires de parsing et d'écriture CSV.
 - `application_streamlit.py` : dashboard Streamlit pour visualiser et analyser les données (graphiques temporels, géographiques, top entreprises, etc.).
-- `app.py` : possible point d'entrée alternatif (vérifier son contenu avant usage).
 - `scraping_cameroondesk.py`, `scraping_emploicm.py`, `scraping_fne.py` : scripts dédiés de scraping (exécutables séparément).
 - `chromedriver.exe` : binaire Chromedriver (utilisé par Selenium pour certains scrapers). Assurez-vous qu'il correspond à votre version de Chrome.
 - `requirements.txt` : liste des dépendances Python requises pour exécuter le projet.
